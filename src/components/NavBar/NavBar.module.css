@@ -1,0 +1,13 @@
+.nav {
+    grid-area: n;
+    background-color: #1c92af;
+    text-align: center;
+    margin-top: 4px;
+
+}
+.item{
+    color: white;
+    margin: 2px;
+    font-weight: 900;
+    font-family: "Bradley Hand ITC";
+}
